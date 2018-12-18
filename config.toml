@@ -1,0 +1,23 @@
+baseURL = "http://sophieli.com.au"
+languageCode = "en-us"
+title = "Sophie Li"
+subtitle = "Fullstack Developer"
+theme = "dimension"
+
+[params]
+  description = '<!--[--><a href="https://github.com/Sophiecli"> Fullstack Developer </a>| Deaf Advocate | Puppies! <!--]-->'
+  skills = '<!--[-->Ruby on Rails, JavaScript, HTML/CSS, Git, Heroku<!--]-->'
+  logo = "fa-diamond"
+
+[[params.social]]
+  icon = "fab fa-linkedin fa-2x"
+  link = "https://www.linkedin.com/in/sophiecli/"
+
+[[params.social]]
+  icon = "fab fa-github-square fa-2x"
+  link = "https://github.com/Sophiecli"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
