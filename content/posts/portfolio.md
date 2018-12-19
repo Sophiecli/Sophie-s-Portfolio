@@ -51,7 +51,7 @@ _As part of the Le Wagon "AirBnB" product sprint, the team designed a similar ap
 <br>
 <div style="display: flex; justify-content: center;">
   <a href="https://sophie-cocktail-app.herokuapp.com/">
-  <img src="/images/4.png" alt="Cheers homepage" style="border-radius: 2px; width: 100%; height: 100%;">
+  <img src="/images/cocktail.jpg" alt="Cheers homepage" style="border-radius: 2px; width: 100%; height: 100%;">
   </a>
 </div>
 <br>
