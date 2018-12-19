@@ -1,21 +1,21 @@
 baseURL = "http://sophieli.com.au"
 languageCode = "en-us"
 title = "Sophie Li"
-subtitle = "Fullstack Developer"
 theme = "dimension"
 
 [params]
-  description = '<!--[--><a href="https://github.com/Sophiecli"> Fullstack Developer </a>| Deaf Advocate | Puppies! <!--]-->'
-  skills = '<!--[-->Ruby on Rails, JavaScript, HTML/CSS, Git, Heroku<!--]-->'
-  logo = "fa-diamond"
+  description = '<!--[-->Fullstack Developer| Deaf Advocate | Puppies! <!--]-->'
+  logo = "fa-code"
 
 [[params.social]]
-  icon = "fab fa-linkedin fa-2x"
+  icon = "fab fa-linkedin"
   link = "https://www.linkedin.com/in/sophiecli/"
+  medium = 'LinkedIn'
 
 [[params.social]]
-  icon = "fab fa-github-square fa-2x"
+  icon = "fab fa-github-alt"
   link = "https://github.com/Sophiecli"
+  medium = "GitHub"
 
 [languages]
 [languages.en]
