@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2018-12-18T16:16:32+08:00
-draft: true
 ---
 
 <div style="display: flex; justify-content: center;">
