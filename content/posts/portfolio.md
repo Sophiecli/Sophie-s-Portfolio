@@ -52,17 +52,17 @@ Team Role: Frontend Developer with goal to learn basic React in 2 days.
 _As part of the Le Wagon "AirBnB" product sprint, the team designed a similar app that includes listings of gardens nearby to choose from with a calendar functionality and can browse through different listings of local gardens to book near you._
 <br>
 
-<!-- ## Cheers
+## Cheers
 **Ruby on Rails, git, GitHub, Heroku**
 <br>
 Add your favourite cocktail recipes with photos
 <br>
 <div style="display: flex; justify-content: center;">
   <a href="https://sophie-cocktail-app.herokuapp.com/">
-  <img src="/images/cocktail.jpg" alt="Cheers homepage" style="border-radius: 2px; width: 100%; height: 100%;">
+  <img src="/images/Cocktail.png" alt="Cheers homepage" style="border-radius: 2px; width: 100%; height: 100%;">
   </a>
 </div>
 Role: Fullstack developer
 <br>
 <br>
-_This was Sophie's first and solo product sprint completed in 2 days - users can search for a particular cocktail or create and save their own mad concoction!_ -->
+_This was Sophie's first and solo product sprint completed in 2 days - users can search for a particular cocktail or create and save their own mad concoction!_
