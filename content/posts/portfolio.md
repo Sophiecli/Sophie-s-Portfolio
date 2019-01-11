@@ -8,7 +8,7 @@ date: 2018-12-18T16:08:36+08:00
 <br>
 A just-in-time global sign language interpreting app. Book anywhere and anytime.
 <div style="display: flex; justify-content: center;">
-  <a href="https://www.gest.uno">
+  <a href="https://gestuno.herokuapp.com/">
   <img src="/images/1.png" alt="Gestuno homepage" style="border-radius: 2px; width: 100%; height: 100%;">
   </a>
 </div>
